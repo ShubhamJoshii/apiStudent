@@ -1,0 +1,84 @@
+[
+  {
+    "userId": 1,
+    "id": "1",
+    "name": "Shubham Joshi",
+    "email": "shubhamjoshi@gmail.com",
+    "website": "https://shubhamjoshi.vercel.app/",
+    "mobile": "1234567899",
+    "description": "This Website only for Educational Purpose This Website only for Educational Purpose This Website only for Educational Purpose"
+  },
+  {
+    "userId": 2,
+    "id": "2",
+    "name": "Harsh Thakur",
+    "email": "Harsh@gmail.com",
+    "website": "https://shubhamjoshi.vercel.app/",
+    "mobile": "8585858585",
+    "description": "This Website only for Educational Purpose This Website only for Educational Purpose This Website only for Educational Purpose"
+  },
+  {
+    "userId": 3,
+    "id": "3",
+    "name": "Rajender",
+    "email": "Rajender@young.com",
+    "website": "https://shubhamjoshi.vercel.app/",
+    "mobile": "9090909090",
+    "description": "This Website only for Educational Purpose This Website only for Educational Purpose This Website only for Educational Purpose"
+  },
+  {
+    "userId": 4,
+    "id": "4",
+    "name": "Anupam Kumar",
+    "email": "anupam@gmail.com",
+    "website": "https://shubhamjoshi.vercel.app/",
+    "mobile": "1010101010",
+    "description": "This Website only for Educational Purpose This Website only for Educational Purpose This Website only for Educational Purpose"
+  },
+  {
+    "userId": 5,
+    "id": "5",
+    "name": "Umesh Sejwal",
+    "email": "umesh@gmail.com",
+    "website": "https://shubhamjoshi.vercel.app/",
+    "mobile": "8181818181",
+    "image": "https://images.pexels.com/photos/2905828/pexels-photo-2905828.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "description": "This Website only for Educational Purpose This Website only for Educational Purpose This Website only for Educational Purpose"
+  },
+  {
+    "userId": 6,
+    "id": "6",
+    "name": "Virat",
+    "email": "virat@gmail.com",
+    "website": "https://shubhamjoshi.vercel.app/",
+    "mobile": "770120500",
+    "description": "This Website only for Educational Purpose This Website only for Educational Purpose This Website only for Educational Purpose"
+  },
+  {
+    "userId": 7,
+    "id": "7",
+    "name": "Joshi",
+    "email": "joshi@gmail.com",
+    "website": "https://shubhamjoshi.vercel.app/",
+    "mobile": "5454474575",
+    "description": "This Website only for Educational Purpose This Website only for Educational Purpose This Website only for Educational Purpose"
+  },
+  {
+    "userId": 8,
+    "id": "8",
+    "name": "Tej",
+    "email": "tej@gmail.com",
+    "website": "https://shubhamjoshi.vercel.app/",
+    "mobile": "321456987",
+    "description": "This Website only for Educational Purpose This Website only for Educational Purpose This Website only for Educational Purpose"
+  },
+  {
+    "userId": 9,
+    "id": "9",
+    "name": "Vishnu",
+    "email": "vishnu@gmail.com",
+    "website": "https://shubhamjoshi.vercel.app/",
+    "mobile": "963852741",
+    "description": "This Website only for Educational Purpose This Website only for Educational Purpose This Website only for Educational Purpose"
+  }
+]
